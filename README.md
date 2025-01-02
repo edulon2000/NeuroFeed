@@ -1,6 +1,6 @@
 # NeuroFeed
 
-NeuroFeed é um site de notícias alimentado por IA, que oferece uma experiência personalizada ao usuário ao categorizar e apresentar notícias com base em seus interesses. O projeto utiliza tecnologias avançadas como Java Spring, React, AWS, PostgreSQL, MongoDB, Python, Flask, Docker, Kubernetes e Redis para garantir escalabilidade, alta performance e uma experiência de usuário otimizada.
+NeuroFeed é um site de notícias alimentado por IA, projetado para oferecer uma experiência personalizada ao usuário, categorizando e apresentando notícias com base em seus interesses. O projeto utiliza tecnologias modernas como Java Spring, React, AWS, PostgreSQL, MongoDB, Python, Flask, Docker, Kubernetes e Redis para garantir uma arquitetura escalável e de alta performance.
 
 ## Tecnologias Utilizadas
 
@@ -30,7 +30,7 @@ NeuroFeed é um site de notícias alimentado por IA, que oferece uma experiênci
 - Java 11 ou superior
 - Node.js e npm
 - Python 3.x
-- Docker e Kubernetes (opcional, para produção)
+- Docker (opcional, para ambiente de produção)
 - Banco de dados PostgreSQL e MongoDB (configuração local ou via Docker)
 
 ### Rodando o Back-end
@@ -84,19 +84,9 @@ NeuroFeed é um site de notícias alimentado por IA, que oferece uma experiênci
     python app.py
     ```
 
-## Contribuindo
-
-Contribuições são bem-vindas! Se você deseja contribuir, por favor, siga os seguintes passos:
-
-1. Fork este repositório.
-2. Crie uma branch para a sua feature (`git checkout -b feature/nome-da-feature`).
-3. Faça as alterações e commit (`git commit -am 'Adiciona nova feature'`).
-4. Envie para o repositório remoto (`git push origin feature/nome-da-feature`).
-5. Abra um Pull Request.
-
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é **privado** e está sujeito a termos e condições internos. Não está disponível para distribuição ou modificação pública.
 
 ## Contato
 
